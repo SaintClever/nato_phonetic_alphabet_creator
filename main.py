@@ -1,5 +1,4 @@
 import pandas as pd
-import string
 
 
 data = pd.read_csv('assets/nato_phonetic_alphabet.csv')
